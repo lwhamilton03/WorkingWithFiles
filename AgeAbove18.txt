@@ -1,0 +1,4 @@
+Name: Henry, Occupation: Teacher, Age: 23
+Name: Frank, Occupation: Plumber, Age: 32
+Name: Janet, Occupation: Chef, Age: 62
+Name: Jerald, Occupation: Designer, Age: 27
